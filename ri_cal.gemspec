@@ -189,10 +189,10 @@ A Google group for discussion of this library has been set up http://groups.goog
      "spec/ri_cal_spec.rb",
      "spec/spec.opts",
      "spec/spec_helper.rb",
-     "tasks/gem_loader/load_active_support.rb",
-     "tasks/gem_loader/load_tzinfo_gem.rb",
-     "tasks/ri_cal.rake",
-     "tasks/spec.rake"
+     "lib/tasks/gem_loader/load_active_support.rb",
+     "lib/tasks/gem_loader/load_tzinfo_gem.rb",
+     "lib/tasks/ri_cal.rake",
+     "lib/tasks/spec.rake"
   ]
   s.homepage = %q{http://github.com/rubyredrick/ri_cal}
   s.rdoc_options = ["--charset=UTF-8"]
